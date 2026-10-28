@@ -1,15 +1,17 @@
 {
+  "id": "/little-english-stars/",
   "name": "Little English Stars",
   "short_name": "English Stars",
   "description": "تطبيق تعليم اللغة الإنجليزية للطلاب",
   "lang": "ar",
   "dir": "rtl",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/little-english-stars/",
+  "scope": "/little-english-stars/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#eaf3ff",
   "theme_color": "#2d6cdf",
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "icon-192.png",
